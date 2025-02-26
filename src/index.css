@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+.filter-title {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #eee;
+}
+.origin-btn {
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
